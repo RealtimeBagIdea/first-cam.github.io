@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/first-cam.github.io/precache-manifest.4597b2a5021910e64751058a95bbaf89.js"
+  "/first-cam.github.io/precache-manifest.3fd7b50b663837d5a7868723c6543ea9.js"
 );
 
 self.addEventListener('message', (event) => {
